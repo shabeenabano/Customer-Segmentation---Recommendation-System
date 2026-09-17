@@ -98,6 +98,23 @@ A similarity-based approach was used to identify products that may be relevant t
 * Scikit-learn
 * Jupyter Notebook
 
+  ## Project Screenshots
+
+### Monthly Sales Analysis
+![Monthly Sales Analysis](02_monthly_sales.png)
+
+### Elbow Method
+![Elbow Method](03_elbow_method.png)
+
+### Silhouette Scores
+![Silhouette Scores](04_silhouette_scores.png)
+
+### RFM Cluster Heatmap
+![RFM Cluster Heatmap](05_rfm_cluster_heatmap.png)
+
+### Customer Segments
+![Customer Segments](06_customer_segments.png)
+
 ## 💡 Business Applications
 
 The analysis can help businesses:
